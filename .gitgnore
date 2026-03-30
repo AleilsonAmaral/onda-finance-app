@@ -1,0 +1,17 @@
+
+# Dependências (Nunca devem subir para o Git)
+node_modules/
+dist/
+dist-ssr
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs e Sistema
+.vscode/
+.DS_Store
+dist/
+build/
